@@ -1,9 +1,11 @@
 import React from "react";
+import './global.css';
+import QRCard from "./components/QRCardComponent";
 
 function App() {
     return (
-        <div>
-            <h1>Hello, world!</h1>
+        <div className="container">
+            <QRCard/>
         </div>
     );
 }
