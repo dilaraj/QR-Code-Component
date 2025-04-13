@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Component/static/css/main.e4fc7bad.css",
+    "main.js": "/QR-Code-Component/static/js/main.d7513e18.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/QR-Code-Component/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
+    "index.html": "/QR-Code-Component/index.html",
+    "main.e4fc7bad.css.map": "/QR-Code-Component/static/css/main.e4fc7bad.css.map",
+    "main.d7513e18.js.map": "/QR-Code-Component/static/js/main.d7513e18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4fc7bad.css",
+    "static/js/main.d7513e18.js"
+  ]
+}
